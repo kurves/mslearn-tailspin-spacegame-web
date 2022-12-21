@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/kurves/Space%20Game%20-%20web%20-%20workflow/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=code-workflow)](https://dev.azure.com/kurves/Space%20Game%20-%20web%20-%20workflow/_build/latest?definitionId=2&branchName=code-workflow)
+
 
 # Contributing
 
